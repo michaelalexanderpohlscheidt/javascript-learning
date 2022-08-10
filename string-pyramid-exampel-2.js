@@ -1,6 +1,5 @@
 const space = ' ';
 const block = '#';
-
 let numberOfSpaces = 3;
 let numberOfBlocks = 1;
 
